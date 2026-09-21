@@ -48,5 +48,5 @@ This platform replaces static routing heuristics with an end-to-end prescriptive
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/nassau-candy-optimizer.git](https://github.com/YOUR_GITHUB_USERNAME/nassau-candy-optimizer.git)
+   git clone [https://github.com/Nallala-Madhuvani/nassau-candy-optimizer](https://github.com/Nallala-Madhuvani/nassau-candy-optimizer.git)
    cd nassau-candy-optimizer
